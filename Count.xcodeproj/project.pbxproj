@@ -15,6 +15,7 @@
 		D47FE91126400C3200C3E780 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D47FE90F26400C3200C3E780 /* LaunchScreen.storyboard */; };
 		D47FE91C26400C3200C3E780 /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47FE91B26400C3200C3E780 /* CountTests.swift */; };
 		D47FE92726400C3200C3E780 /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47FE92626400C3200C3E780 /* CountUITests.swift */; };
+		D47FE93B2640164700C3E780 /* yukiyama.png in Resources */ = {isa = PBXBuildFile; fileRef = D47FE93A2640164700C3E780 /* yukiyama.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D47FE92226400C3200C3E780 /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D47FE92626400C3200C3E780 /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		D47FE92826400C3200C3E780 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D47FE93A2640164700C3E780 /* yukiyama.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yukiyama.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		D47FE90326400C3100C3E780 /* Count */ = {
 			isa = PBXGroup;
 			children = (
+				D47FE93A2640164700C3E780 /* yukiyama.png */,
 				D47FE90426400C3100C3E780 /* AppDelegate.swift */,
 				D47FE90626400C3100C3E780 /* SceneDelegate.swift */,
 				D47FE90826400C3100C3E780 /* ViewController.swift */,
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D47FE91126400C3200C3E780 /* LaunchScreen.storyboard in Resources */,
+				D47FE93B2640164700C3E780 /* yukiyama.png in Resources */,
 				D47FE90E26400C3200C3E780 /* Assets.xcassets in Resources */,
 				D47FE90C26400C3100C3E780 /* Main.storyboard in Resources */,
 			);
